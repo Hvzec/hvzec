@@ -1,6 +1,5 @@
 ![Logo](https://github.com/Hvzec/Hvzec/blob/master/Github_Banner.jpg)
 
-<h1 align="center">YO 👋, Soy MOHAMED AMANNA</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
