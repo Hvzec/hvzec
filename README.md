@@ -1,11 +1,6 @@
 ![Logo](https://github.com/Hvzec/Hvzec/blob/master/Github_Banner.jpg)
 
 <h1 align="center">YO 👋, Soy MOHAMED AMANNA</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
-
-- 💬 Ask me about **ReactJS, NextJS, Typescript**
-
-- 📫 How to reach me **https://twitter.com/hvzec**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
